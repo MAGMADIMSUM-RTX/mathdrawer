@@ -2,8 +2,10 @@
 
 ### Interview
 
-为了快速绘制科学图像，我以硅光电池的实验数据为例，写了这个工具。数据仅供参考，严禁直接将源码的数据作为作业提交。
+为了快速绘制科学图像，笔者以硅光电池的实验数据为例，写了这个工具。数据仅供参考，严禁直接将源码的数据作为作业提交。
 若出现任何学术不端行为，笔者概不负责。
+
+![image](https://github.com/user-attachments/assets/7f7815c7-9da8-42b9-8de4-21e3376f28fd)
 
 ### Get Start
 
@@ -26,6 +28,7 @@
 3. 在 mathdrawer 目录下运行
 
    ```bash
+   cd mathdrawer
    python tab.py
    ```
 
